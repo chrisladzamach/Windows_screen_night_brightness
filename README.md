@@ -90,7 +90,7 @@ También incluye un manejador de teclas para cerrar fácilmente con **ESC** o **
 
 ---
 
-### ▶Cómo usarlo
+### Cómo usarlo
 1. Guarda el script como `oscurecer.ps1`
 2. Haz clic derecho → **Ejecutar con PowerShell**
 3. Modifica esta línea para ajustar el nivel de oscuridad:
